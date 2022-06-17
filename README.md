@@ -1,2 +1,1 @@
-# Restoran
- 
+Local veritabanına bağlı restorant programı

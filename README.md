@@ -1,1 +1,1 @@
-Local veritabanına bağlı restorant programı
+Restaurant program connected to local database
